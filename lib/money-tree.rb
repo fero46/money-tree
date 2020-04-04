@@ -1,5 +1,6 @@
 require "openssl_extensions"
 require 'money-tree/configuration'
+require "bech32"
 require "money-tree/version"
 require "money-tree/support"
 require "money-tree/networks"
